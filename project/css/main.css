@@ -32,3 +32,8 @@ button {
   height: 200px;
   margin-top: 60px;
 }
+
+.nav-link {
+  color: #FFFFFF;
+  font-family: 'Poppins', sans-serif;
+}
